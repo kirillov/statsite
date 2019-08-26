@@ -1,0 +1,210 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/apple/Documents/025 статический сайт/app-styles.css",
+		"/Users/apple/Documents/025 статический сайт/bootstrap_theme/custom.scss",
+		"/Users/apple/Documents/025 статический сайт/bootstrap_theme/img/check-mark-bg.png",
+		"/Users/apple/Library/Containers/pro.writer.mac/Data/Library/Application Support/iA Writer/Templates/SashaGitHubNoLines.iatemplate/Contents/Resources/github.css",
+		"/Users/apple/Library/Containers/pro.writer.mac/Data/Library/Application Support/iA Writer/Templates/SashaGitHubNoLines.iatemplate/Contents/Resources/github-markdown.css",
+		"/Users/apple/Library/Containers/pro.writer.mac/Data/Library/Application Support/iA Writer/Templates/SashaGitHubNoLines.iatemplate/Contents/Resources/github-markdown-mobile.css",
+		"/Users/apple/Downloads/iA-Writer-Templates-master/SashaGitHubNoLines.iatemplate/Contents/Resources/github-markdown.css",
+		"/Users/apple/Downloads/iA-Writer-Templates-master/Example.iatemplate/Contents/Info.plist",
+		"/Users/apple/Downloads/iA-Writer-Templates-master/GitHub no lines.iatemplate/Contents/Resources/document.html",
+		"/Users/apple/Downloads/iA-Writer-Templates-master/GitHub no lines.iatemplate/Contents/Info.plist",
+		"/Users/apple/Downloads/iA-Writer-Templates-master/Example.iatemplate/Contents/Resources/document.html",
+		"/Users/apple/Downloads/iA-Writer-Templates-master/Example.iatemplate/Contents/Resources/header.html",
+		"/Users/apple/Downloads/iA-Writer-Templates-master/GitHub.iatemplate/Contents/Resources/document.html",
+		"/Users/apple/Downloads/iA-Writer-Templates-master/GitHub.iatemplate/Contents/Resources/github.css",
+		"/Users/apple/Downloads/iA-Writer-Templates-master/GitHub.iatemplate/Contents/Info.plist",
+		"/Users/apple/Downloads/iA-Writer-Templates-master/GitHub.iatemplate/Contents/Resources/github-markdown.css",
+		"/Users/apple/Documents/Составные текстовые документы/Как мы работаем.txt",
+		"/Users/apple/Documents/Составные текстовые документы/How We Work.txt",
+		"/Users/apple/Downloads/TD.B01.001.02.txt",
+		"/Users/apple/Documents/Планострат/Дипломная работа группа 6Т/Работа с людьми/Динамика оргизменений/Untitled-1eb90c0b-52bf-44db-a9dd-7bfd02feb319.md",
+		"/Users/apple/Documents/Планострат/Дипломная работа группа 6Т/Работа с людьми/Третий кит, сила в безразличии/Untitled-13adbf90-322a-40bc-916d-ddddc946ffc3.md",
+		"/Users/apple/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/apple/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/apple/Documents/Планострат/Дипломная работа группа 6Т/Работа с людьми/Первый кит, полномочия/Untitled-bdee4cf2-f7d2-4784-a7be-d1a073064872.md",
+		"/Users/apple/Documents/Планострат/Дипломная работа группа 6Т/Работа с людьми/Export-9e8e1339-0be6-4f3d-8c96-f0d288dc1b8c/DISC-9615a273-1186-4353-9bdd-8697f9f9b7cb.md",
+		"/Users/apple/Documents/Планострат/Дипломная работа группа 6Т/Работа с людьми/Untitled-8847f613-2e8a-4e6e-96f7-07c6f79dff8a.md",
+		"/Users/apple/Documents/Воркшоп в Томске/Основы графического _ подготовка/Графический подготовка.md",
+		"/Users/apple/Documents/Воркшоп в Томске/Основы графического дизайна/2-c4aeb80d-3e7e-4aa9-bc68-3b4bebc7aada.md",
+		"/Users/apple/Documents/Воркшоп в Томске/Основы взаимодействия/Основы взаимодействия.md",
+		"/Users/apple/Downloads/Allianz status.txt",
+		"/Users/apple/Downloads/Kirillov_Alexander/Common/pass.txt",
+		"/Users/apple/Downloads/Kirillov_Alexander/de-amos-kirillov_alexander.p12.pph",
+		"/Users/apple/Documents/JS30/01 - JavaScript Drum Kit/index-FINISHED.html",
+		"/Users/apple/Documents/JS30/01 - JavaScript Drum Kit/index-START 1.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "master.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
